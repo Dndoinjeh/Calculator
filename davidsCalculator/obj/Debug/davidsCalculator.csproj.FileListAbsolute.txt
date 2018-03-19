@@ -1,0 +1,11 @@
+c:\users\david\documents\visual studio 2015\Projects\davidsCalculator\davidsCalculator\bin\Debug\davidsCalculator.exe.config
+c:\users\david\documents\visual studio 2015\Projects\davidsCalculator\davidsCalculator\bin\Debug\davidsCalculator.exe
+c:\users\david\documents\visual studio 2015\Projects\davidsCalculator\davidsCalculator\bin\Debug\davidsCalculator.pdb
+c:\users\david\documents\visual studio 2015\Projects\davidsCalculator\davidsCalculator\obj\Debug\davidsCalculator.Calculator.resources
+c:\users\david\documents\visual studio 2015\Projects\davidsCalculator\davidsCalculator\obj\Debug\davidsCalculator.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\davidsCalculator\davidsCalculator\obj\Debug\davidsCalculator.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\davidsCalculator\davidsCalculator\obj\Debug\davidsCalculator.exe
+c:\users\david\documents\visual studio 2015\Projects\davidsCalculator\davidsCalculator\obj\Debug\davidsCalculator.pdb
+C:\Users\David\Desktop\davidsCalculator\davidsCalculator\bin\Debug\davidsCalculator.exe.config
+C:\Users\David\Desktop\davidsCalculator\davidsCalculator\obj\Debug\davidsCalculator.exe
+C:\Users\David\Desktop\davidsCalculator\davidsCalculator\obj\Debug\davidsCalculator.pdb
